@@ -23,7 +23,4 @@ I will take 50 pictures of an object from varying angles and lighting and label 
 *   Raspberry Pi Camera v3 *(encountered some driver issues with opencv but should work with picamera2)*
 *   USB camera *(this is what I ended up using)*
 *   Google Colab
-<br>
-Below is an example of the end result if all goes well.
-<br>
-![object_detection_screenshot_11 11 2024](https://github.com/user-attachments/assets/ff9da81c-97d7-47af-b53c-e8eeecc746fd)
+
