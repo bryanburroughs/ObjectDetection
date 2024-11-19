@@ -3,10 +3,13 @@
 <br>
 **Overview**
 <br>
+<br>
 This notebook describes the process of Supervised Machine Learning.
 <br>
+<br>
 There are three main types of machine learning.
-
+<br>
+<br>
 
 *   Supervised Learning
 *   Unsupervised Learning
