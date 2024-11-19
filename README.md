@@ -1,7 +1,7 @@
 # Object Detection using Tensorflow Lite and Raspberry Pi
 <br>
 <br>
-**Overview**
+** Overview **
 <br>
 <br>
 This notebook describes the process of Supervised Machine Learning.
